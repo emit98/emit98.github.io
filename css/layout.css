@@ -115,6 +115,18 @@ header .scrolldown a:hover { color: #11ABB0; }
 	 border: none;
 	 outline: none;
 }
+#edu {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 72px;
+    overflow: hidden;
+}
+#wo {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 72px;
+    overflow: hidden;
+}
 
 /* nav-wrap */
 #nav-wrap {
