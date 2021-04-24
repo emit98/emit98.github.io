@@ -27,17 +27,6 @@ h6 {
 
 /*-- header --*/
 
-#home {
-  background: url(../images/header-background(2).jpg) no-repeat center top;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -ms-background-size: cover;
-  min-height: 650px;
-  position: relative;
-}
-
 .top-header {
   padding: 2em 0;
 }
