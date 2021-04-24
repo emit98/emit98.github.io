@@ -881,12 +881,12 @@ footer .copyright  li:first-child:before {
 }
 
 /* social links */
-footer .social-links {
+footer .social {
    margin: 18px 0 30px 0;
    padding: 0;
    font-size: 30px;
 }
-footer .social-links li {
+footer .social li {
     display: inline-block;
     margin: 0;
     padding: 0;
@@ -894,7 +894,7 @@ footer .social-links li {
     color: #F06000;
 }
 
-footer .social-links li:first-child { margin-left: 0; }
+footer .social li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {
