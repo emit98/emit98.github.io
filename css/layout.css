@@ -127,7 +127,11 @@ header .scrolldown a:hover { color: #11ABB0; }
     padding-bottom: 72px;
     overflow: hidden;
 }
-#resume h1 span {
+#edu h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#wo h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
